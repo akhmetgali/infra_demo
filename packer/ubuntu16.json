@@ -1,7 +1,7 @@
 {
     "variables": {
-        "proj_id": null,
-        "src_img": null,
+        "proj_id": "infra-218512",
+        "src_img": "ubuntu-1604-xenial-v20181004",
         "machine": "f1-micro"
     },
     "builders": [
